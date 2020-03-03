@@ -1,0 +1,72 @@
+﻿  SkyBox.cpp
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(13): error C2653: 'SkyBox': is not a class or namespace name
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(16): warning C4508: 'gps::SkyBox': function should return a value; 'void' return type assumed
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(18): error C2653: 'SkyBox': is not a class or namespace name
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(18): error C2039: 'vector': is not a member of 'std'
+  c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\predefined c++ types (compiler internal)(209): note: see declaration of 'std'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(18): error C2065: 'vector': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(18): error C2059: syntax error: 'const'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(19): error C2143: syntax error: missing ';' before '{'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(19): error C2447: '{': missing function header (old-style formal list?)
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(24): error C2653: 'SkyBox': is not a class or namespace name
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(24): error C2039: 'Shader': is not a member of 'gps'
+  c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(11): note: see declaration of 'gps'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(24): error C2065: 'Shader': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(24): error C2146: syntax error: missing ')' before identifier 'shader'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(24): error C2653: 'glm': is not a class or namespace name
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(25): error C2143: syntax error: missing ';' before '{'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(25): error C2447: '{': missing function header (old-style formal list?)
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(45): error C2653: 'SkyBox': is not a class or namespace name
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(45): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(45): error C2146: syntax error: missing ';' before identifier 'LoadSkyBoxTextures'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(45): error C2039: 'vector': is not a member of 'std'
+  c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\predefined c++ types (compiler internal)(209): note: see declaration of 'std'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(46): error C2143: syntax error: missing ';' before '{'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(46): error C2447: '{': missing function header (old-style formal list?)
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(78): error C2653: 'SkyBox': is not a class or namespace name
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(80): error C2065: 'GLfloat': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(80): error C2146: syntax error: missing ';' before identifier 'skyboxVertices'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(80): error C2065: 'skyboxVertices': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(80): error C2059: syntax error: ']'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(80): error C2143: syntax error: missing ';' before '{'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(122): error C2143: syntax error: missing ';' before '}'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(124): error C2355: 'this': can only be referenced inside non-static member functions or non-static data member initializers
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(124): error C2227: left of '->skyboxVAO' must point to class/struct/union/generic type
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(124): error C3861: 'glGenVertexArrays': identifier not found
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(125): error C2065: 'skyboxVBO': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(125): error C3861: 'glGenBuffers': identifier not found
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(127): error C2065: 'skyboxVAO': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(127): error C3861: 'glBindVertexArray': identifier not found
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(128): error C2065: 'GL_ARRAY_BUFFER': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(128): error C2065: 'skyboxVBO': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(128): error C3861: 'glBindBuffer': identifier not found
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(129): error C2065: 'GL_ARRAY_BUFFER': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(129): error C2065: 'skyboxVertices': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(129): error C2065: 'GL_STATIC_DRAW': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(129): error C3861: 'glBufferData': identifier not found
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(131): error C3861: 'glEnableVertexAttribArray': identifier not found
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(132): error C2065: 'GL_FLOAT': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(132): error C2065: 'GL_FALSE': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(132): error C2065: 'GLfloat': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(132): error C2065: 'GLvoid': undeclared identifier
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(132): error C2059: syntax error: ')'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(134): error C3861: 'glBindVertexArray': identifier not found
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(137): error C2653: 'SkyBox': is not a class or namespace name
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(137): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(137): error C2086: 'int gps::GLuint': redefinition
+  c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(45): note: see declaration of 'gps::GLuint'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(137): error C2146: syntax error: missing ';' before identifier 'GetTextureId'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(138): error C2143: syntax error: missing ';' before '{'
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\skybox.cpp(138): error C2447: '{': missing function header (old-style formal list?)
+  Shader.cpp
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\shader.cpp(99): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  OpenGL_4_Application_VS2015.cpp
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\opengl_4_application_vs2015.cpp(510): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Model3D.cpp
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\model3d.cpp(231): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Mesh.cpp
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\mesh.cpp(77): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Camera.cpp
+c:\users\andreea\desktop\opengl_4_application_vs2015(1)\opengl_4_application_vs2015\camera.cpp(65): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+  Generating Code...
